@@ -1,0 +1,3 @@
+model,trainRMSE,holdoutRMSE
+instant_absorption,0.388967858538548,0.275938646769338
+gut_plus_central,0.108151642682068,0.180546609609585

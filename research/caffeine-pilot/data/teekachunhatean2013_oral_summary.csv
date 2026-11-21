@@ -1,0 +1,6 @@
+metric,mean,sd,unit,n,source_field,source_doi,data_level
+cmax,2.47,0.39,mg/L,11,Table 1 / Oral coffee consumption / cmax,10.1155/2013/147238,participant_summary
+auc_0_12,13.05,2.06,mg*h/L,11,Table 1 / Oral coffee consumption / auc_0_12,10.1155/2013/147238,participant_summary
+auc_inf,16.32,3.89,mg*h/L,11,Table 1 / Oral coffee consumption / auc_inf,10.1155/2013/147238,participant_summary
+tmax,0.44,0.11,h,11,Table 1 / Oral coffee consumption / tmax,10.1155/2013/147238,participant_summary
+half_life,4.87,1.39,h,11,Table 1 / Oral coffee consumption / half_life,10.1155/2013/147238,participant_summary

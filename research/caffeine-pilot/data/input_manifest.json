@@ -1,0 +1,19 @@
+{
+  "oral_summary": {
+    "source": "PMC3603218.xml",
+    "source_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3603218/",
+    "sha256": "e60e7663f2133303c0d35395322f1336adb6aeaad1f44c7c64ba64d2f276f165",
+    "rows": 5,
+    "unit_conversion": "1 ug/mL = 1 mg/L; numerical values unchanged"
+  },
+  "saliva_summary": {
+    "source": "Data_Sheet_1.docx",
+    "sha256": "960d413d92969d0af93e88ec24a900369b7b2644d984c0fd3b142b607440b7d3",
+    "rows": 66,
+    "unit_conversion": "1 ug/mL = 1 mg/L; numerical values unchanged",
+    "source_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8849224/#SM1",
+    "timing": "Figure 1 gives withdrawal endpoints 24 and 43 h after last dose. Internal sample times are intentionally blank.",
+    "sample_size": "20 enrolled; one caffeine condition excluded for noncompliance; per-cell n not supplied in Table S1"
+  },
+  "scope": "This manifest describes summary extraction only. No raw participant records or independent validation are supplied. The pilot separately fits an approximate digitized group-mean curve."
+}

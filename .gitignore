@@ -1,0 +1,21 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*.asv
+
+# Keep source provenance, but exclude downloaded articles and partial packages.
+/research/caffeine-pilot/sources/*
+!/research/caffeine-pilot/sources/retrieval_manifest.json
+
+# Commit selected reference results; regenerate the remaining outputs locally.
+/research/caffeine-pilot/output/*
+!/research/caffeine-pilot/output/first_plot.png
+!/research/caffeine-pilot/output/schedule_comparison.png
+!/research/caffeine-pilot/output/curve_evaluation.csv
+!/research/caffeine-pilot/output/curve_parameters.csv
+!/research/caffeine-pilot/output/baseline_parameters.csv
+!/research/caffeine-pilot/output/numerical_checks.csv
+!/research/caffeine-pilot/output/curve_numerical_checks.csv
+!/research/caffeine-pilot/output/external_endpoint_check.csv
+!/research/caffeine-pilot/output/schedule_metrics.csv
+!/research/caffeine-pilot/output/paired_uncertainty.csv

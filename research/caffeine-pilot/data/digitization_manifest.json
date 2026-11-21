@@ -1,0 +1,20 @@
+{
+  "figure": "ISRN.PHARMACOLOGY2013-147238.002.jpg",
+  "sha256": "fc251b22818b9340caf694349213c5414dc5a6ad3cfd475cd081af144ec4072a",
+  "source_doi": "10.1155/2013/147238",
+  "license": "CC BY",
+  "access_utc": "2026-11-21T13:48:33.329410+00:00",
+  "image_size_px": [
+    600,
+    376
+  ],
+  "zero_axis_y_px": 237,
+  "three_mg_L_axis_y_px": 30,
+  "pixels_per_mg_L": 69,
+  "method": "Manual inspection of original image; protocol times used, not inferred x values",
+  "extraction_envelope_pixels": 3,
+  "envelope_distribution": "No empirical distribution; uniform perturbations are sensitivity scenarios only",
+  "split_status": "Fixed before optimization, but not prospectively registered or blinded",
+  "limitations": "Approximate group means, not participant records; marker overlap and line width; second-reader check needed",
+  "figure_package_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3603218/supplementaryFiles"
+}

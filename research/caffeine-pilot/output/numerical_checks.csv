@@ -1,0 +1,7 @@
+name,checks,passed
+single_dose_max_abs_error_mg_L,1.5734239022791e-08,1
+repeat_dose_max_abs_error_mg_L,4.93497687159561e-10,1
+nonzero_initial_max_abs_error_mg_L,5.00092189881229e-11,1
+mass_balance_max_error_mg,1.13901421627816e-09,1
+auc_relative_tolerance_change,2.97939088974253e-11,1
+minimum_state_mg,0,1

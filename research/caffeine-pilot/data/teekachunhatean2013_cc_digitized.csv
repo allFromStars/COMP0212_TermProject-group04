@@ -1,0 +1,11 @@
+time_h,mean_mg_L,pixel_y,extraction_envelope_mg_L,split,source_field,data_level
+0.16666666666666666,1.1159420289855073,160,0.043478260869565216,calibration,Figure 2 / CC open triangles,digitized_group_mean_n11
+0.3333333333333333,2.1159420289855073,91,0.043478260869565216,holdout,Figure 2 / CC open triangles,digitized_group_mean_n11
+0.5,2.2318840579710146,83,0.043478260869565216,calibration,Figure 2 / CC open triangles,digitized_group_mean_n11
+0.6666666666666666,2.217391304347826,84,0.043478260869565216,holdout,Figure 2 / CC open triangles,digitized_group_mean_n11
+1.0,2.0579710144927534,95,0.043478260869565216,calibration,Figure 2 / CC open triangles,digitized_group_mean_n11
+1.5,1.8115942028985508,112,0.043478260869565216,holdout,Figure 2 / CC open triangles,digitized_group_mean_n11
+2.0,1.710144927536232,119,0.043478260869565216,calibration,Figure 2 / CC open triangles,digitized_group_mean_n11
+4.0,1.2753623188405796,149,0.043478260869565216,calibration,Figure 2 / CC open triangles,digitized_group_mean_n11
+8.0,0.7101449275362319,188,0.043478260869565216,holdout,Figure 2 / CC open triangles,digitized_group_mean_n11
+12.0,0.42028985507246375,208,0.043478260869565216,calibration,Figure 2 / CC open triangles,digitized_group_mean_n11

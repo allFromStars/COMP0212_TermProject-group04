@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=caffeine+AND+%28pharmacokinetics+OR+%22concentration+time%22%29+AND+%28oral+OR+repeated%29&format=json&pageSize=20&resultType=core",
+    "file": "search.json",
+    "http_status": "200",
+    "curl_returncode": 0,
+    "access_utc": "2026-11-19T14:19:54.562349+00:00",
+    "sha256": "e1c45bdf3382cdccca70ad467f254a7f4ea4c24beb66602b120713525847bed2",
+    "hitCount": 6714,
+    "retrieved": 20,
+    "errCode": null
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3603218/fullTextXML",
+    "file": "PMC3603218.xml",
+    "http_status": "200",
+    "curl_returncode": 0,
+    "access_utc": "2026-11-19T14:20:24.753700+00:00",
+    "sha256": "e60e7663f2133303c0d35395322f1336adb6aeaad1f44c7c64ba64d2f276f165",
+    "fulltext_parser_exit": 0
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8849224/fullTextXML",
+    "file": "PMC8849224.xml",
+    "http_status": "000",
+    "curl_returncode": 28,
+    "access_utc": "2026-11-19T14:21:24.875246+00:00"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4898153/fullTextXML",
+    "file": "PMC4898153.xml",
+    "http_status": "200",
+    "curl_returncode": 0,
+    "access_utc": "2026-11-19T14:22:10.815672+00:00",
+    "sha256": "18330dc97b3e7f9c10edb47b5f5a78a5d6f808052a0e7c8af2b508e193e3dbf7",
+    "fulltext_parser_exit": 0
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8914174/fullTextXML",
+    "file": "PMC8914174.xml",
+    "http_status": "200",
+    "curl_returncode": 0,
+    "access_utc": "2026-11-19T14:22:41.331666+00:00",
+    "sha256": "ebcdd4de051b6e08b6ab4f32147d65fdedc285ac3645295dc8363d750bd845ef",
+    "fulltext_parser_exit": 0
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8849224/supplementaryFiles",
+    "file": "PMC8849224_supplements.zip",
+    "http_status": "200",
+    "curl_returncode": 28,
+    "access_utc": "2026-11-19T14:23:41.448261+00:00",
+    "sha256": "5360fdb7de13ac047fd37a7f63eb12bc2f538ffd5f8a69749d790d96024a3a7f",
+    "valid_zip": false
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4898153/supplementaryFiles",
+    "file": "PMC4898153_supplements.zip",
+    "http_status": "200",
+    "curl_returncode": 0,
+    "access_utc": "2026-11-19T14:24:09.936845+00:00",
+    "sha256": "a1cecd0eaf526af8d14b2e2136b39de1a782fe57538158b4c3a2867a027e47a8",
+    "valid_zip": true,
+    "members": [
+      "ictx_a_1146740_f0001_c.jpg",
+      "ictx_a_1146740_f0001_c.gif"
+    ]
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A19125908+AND+SRC%3AMED&format=json&pageSize=1&resultType=core",
+    "file": "MED_19125908.json",
+    "http_status": "200",
+    "curl_returncode": 0,
+    "access_utc": "2026-11-19T14:24:36.393988+00:00",
+    "sha256": "9c09202fa8b4c242108e787765e345118cebbd8a788ca47bfaed13f2ca15c8a9",
+    "hitCount": 1,
+    "retrieved": 1,
+    "errCode": null
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A6832208+AND+SRC%3AMED&format=json&pageSize=1&resultType=core",
+    "file": "MED_6832208.json",
+    "http_status": "200",
+    "curl_returncode": 0,
+    "access_utc": "2026-11-19T14:24:38.399109+00:00",
+    "sha256": "2476e55fd6e30089879b89c8df943163e8e646f0807bd8932992ff28d16a8280",
+    "hitCount": 1,
+    "retrieved": 1,
+    "errCode": null
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A2401126+AND+SRC%3AMED&format=json&pageSize=1&resultType=core",
+    "file": "MED_2401126.json",
+    "http_status": "200",
+    "curl_returncode": 0,
+    "access_utc": "2026-11-19T14:24:43.536333+00:00",
+    "sha256": "0397506668eb292cc70214673cdd1b017895ab1048cf900b457327d23089249e",
+    "hitCount": 1,
+    "retrieved": 1,
+    "errCode": null
+  }
+]
